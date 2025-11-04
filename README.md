@@ -33,6 +33,12 @@ Para que la API funcione, la base de datos debe estar correctamente inicializada
 
 ¡Una vez completados estos pasos, el sistema debería estar operativo!
 
+### 3. FrontEnd
+
+Usamos la extension LiveServer para ejecutar el frontend.
+El directorio del proyecto `..\Backend\`
+
+
 ## 🛠️ Tecnologías 
 
 * **Backend:** .NET, JWT, Bvcrypt
