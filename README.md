@@ -1,4 +1,4 @@
-# 🐾 Proyecto Veterinaria
+# 🐾 Proyecto Veterinaria 🙉🙈
 
 Este es un proyecto de software de webAPI para la gestión de una clínica veterinaria **(DOGTOR)**. El **núcleo principal del proyecto es el sistema de turnos**, diseñado para optimizar la organización y la atención de pacientes.
 
